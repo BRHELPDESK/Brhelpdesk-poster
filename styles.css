@@ -1,0 +1,33 @@
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #00c6ff, #0072ff);
+  color: white;
+  text-align: center;
+  padding: 50px;
+}
+.logo {
+  width: 120px;
+}
+.container {
+  background: rgba(0, 0, 0, 0.4);
+  padding: 20px;
+  border-radius: 15px;
+  max-width: 500px;
+  margin: auto;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+li {
+  font-size: 18px;
+  margin: 10px 0;
+}
+.coming-soon {
+  margin-top: 20px;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ffdf00;
+}
